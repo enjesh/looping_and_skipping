@@ -1,4 +1,7 @@
 #!/bin/bash
+#https://github.com/enjesh/sprint_projects/blob/master/average.sh
+
+# Compute average and round it to 3 decimals
 
 echo "enter size N"
 read N
